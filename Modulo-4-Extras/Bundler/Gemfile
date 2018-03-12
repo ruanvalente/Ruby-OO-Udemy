@@ -1,0 +1,3 @@
+source 'http://rubygems.org/'
+gem install cpf_ultis
+gem install lerolero_generator
